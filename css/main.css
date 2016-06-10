@@ -1,0 +1,136 @@
+/*.cabeza{
+	background-color: #3CB371;
+	background-size: 100% 100%;
+	height: 100px;
+}*/
+.container-fluid{
+	background-color: #3CB371;
+	background-size: 100% 100%;
+	height: 100px;
+
+
+}
+
+
+.barra{
+	background-color: #DCDCDC;
+	width: 100%;
+	height: 80px; 
+	border-left: solid 1px #c0c0c0;
+	position: absolute;
+	margin-top: -60px;
+}
+.imge{
+	border-radius: 100%;
+	max-width: 50px;
+	margin-top: 3%;
+}
+.uno{
+	font-size: 2.5em;
+	margin-top:15px;
+}
+.dos{
+	font-size: 30px;
+	margin-top: 20px;
+	
+}
+li{
+	display: inline-block;
+}
+.ico{
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	margin-top: 3%;
+
+}	
+.contener{
+	background-color: #DCDCDC;
+	
+
+
+}
+.labo{
+	font-size: 200%;
+	margin-top: 5px;
+}
+.ana{
+	font-size: 100%;
+}
+.cja{
+	background-color: white;
+	height:500px;
+	border:solid 1px #DCDCDC;
+
+	margin-top: 25px;
+	width: 100%;
+ 	
+	
+
+	}
+.cjas{
+		background-image: url("../image/chat-panel-bg.png");
+		background-color: #E8E8E8 	;
+		background-size: 100%;
+		height:500px;
+		border:solid 1px #DCDCDC;
+		margin-bottom: 20%;
+		margin-top: 14px;
+
+	}
+	.buscador{
+		
+		margin:10px;
+		height: 50px;
+		
+
+
+
+	}
+	.buscar{
+		height: 50px;
+		border-bottom :solid 1px;
+
+	}
+
+#global {
+	height: 450px;
+	
+	overflow-y: scroll;
+}
+#mensajes {
+	height: auto;
+}
+.texto {
+	height: 50%;
+	padding:4px;
+	border-top: 1px solid #DCDCDC;
+}
+.conv{
+	width: 50%;
+	height: 10%;
+	border: solid #DCDCDC 2px;
+	border-radius:5px;
+	background-color: white;
+}
+.respuesta{
+	width: 40%;
+	height: 10%;
+	border: solid #DCDCDC 2px;
+	background-color:#CCFFCC  ;  
+	border-radius: 5px;
+	margin-left: 60%;
+}
+.rosa{
+	color: pink;
+
+}
+.verde{
+	color:#00FF66; 
+
+}
+.azul{
+	color: #0066FF;
+
+	
+}
