@@ -50,6 +50,7 @@ li{
 
 
 }
+
 .labo{
 	font-size: 200%;
 	margin-top: 5px;
@@ -133,4 +134,34 @@ li{
 	color: #0066FF;
 
 	
+}
+/* - Tareas - */
+
+
+
+.tareas .lista {
+	list-style: none;
+}
+
+.tareas .lista li {
+	/*padding-right : 5%;*/
+	width: 50%;
+	height: 10%;
+	border: solid #DCDCDC 2px;
+	border-radius:5px;
+	background-color: white;
+
+	}
+.tareas .lista li a {
+	color: black;
+	margin-left: 10%;
+	display: block;
+	padding: 20px 20px;
+	text-decoration: none;
+
+}
+.inp{
+	margin-top:-10%;
+	width: 100%;
+border-color: 2px white;
 }
